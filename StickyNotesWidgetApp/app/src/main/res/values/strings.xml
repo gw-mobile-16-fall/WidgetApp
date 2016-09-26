@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StickyNotesWidgetApp</string>
+    <string name="app_greeting">App Widget Demo</string>
+</resources>
